@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.vaccination-coverage-container {
+  background-color: #1c1c2b;
+}
+.vaccination-coverage-heading {
+  font-family: 'Roboto';
+  font-size: 24px;
+  color: #cbd5e1;
+  font-weight: 500;
+}
